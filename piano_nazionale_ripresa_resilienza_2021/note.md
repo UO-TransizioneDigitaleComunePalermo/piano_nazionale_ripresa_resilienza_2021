@@ -35,4 +35,5 @@ Questo sforzo sul lato dell’offerta, da parte della PA, di un servizio digital
 - Abilitare gli interventi di riforma della PA investendo in competenze e innovazione e semplificando in modo sistematico i procedimenti amministrativi (riduzione di tempi e costi) 
 - Sostenere gli interventi di riforma della giustizia attraverso investimenti nella digitalizzazione e nella gestione del carico pregresso di cause civili e penali
 
-
+Gli investimenti/riforme della componente sono riconducibili ai seguenti ambiti di intervento/misure: 
+1. Digitalizzazione della PA
