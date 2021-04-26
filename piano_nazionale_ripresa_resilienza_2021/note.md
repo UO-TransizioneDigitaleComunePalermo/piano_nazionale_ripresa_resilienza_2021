@@ -36,7 +36,7 @@ Questo sforzo sul lato dell’offerta, da parte della PA, di un servizio digital
 - Sostenere gli interventi di riforma della giustizia attraverso investimenti nella digitalizzazione e nella gestione del carico pregresso di cause civili e penali
 
 Gli investimenti/riforme della componente sono riconducibili ai seguenti ambiti di intervento/misure: 
-1. Digitalizzazione della PA
+**1. Digitalizzazione della PA**
   - Riforma 1.1: Processo di acquisto ICT 
   - Riforma 1.2: S alla trasformazione della PA locale 
   - Riforma 1.3: Introduzione linee guida “cloud first” e interoperabilità 
@@ -47,7 +47,7 @@ Gli investimenti/riforme della componente sono riconducibili ai seguenti ambiti 
   - Investimento 1.5: Cybersecurity 
   - Investimento 1.6: Digitalizzazione delle grandi amministrazioni centrali 
   - Investimento 1.7: Competenze digitali di base
-2. Innovazione della PA
+**2. Innovazione della PA**
   - Riforma 2.1: Accesso a reclutamento 
   - Riforma 2.2: Buona amministrazione e semplificazione 
   - Riforma 2.3: Competenze e carriere
