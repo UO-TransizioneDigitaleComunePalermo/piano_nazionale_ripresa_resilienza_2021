@@ -8,4 +8,4 @@ Consulta il documento in formato pdf del PNRR approvato dal Governo Italiano.
 
 Vedi il catalogo per la consultazione facile delle azioni finanziate dal PNRR.  Il catalogo è stato realizzato da Giovan Battista Vitrano in collaborazione con Ciro Spataro e Riccardo Saporiti.
 
-[**`catalogo PNRR`**](https://pnrr.opendatasicilia.it/)
+[**`catalogo PNRR 2021`**](https://pnrr.opendatasicilia.it/)
